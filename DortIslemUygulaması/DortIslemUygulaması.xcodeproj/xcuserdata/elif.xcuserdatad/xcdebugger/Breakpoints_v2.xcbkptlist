@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "76361C62-DF12-4BEE-A7C0-8341955459A0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B3FF98F-495D-4D65-8D61-6D95A5DEF480"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DortIslemUygulamas&#x131;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6B3FF98F-495D-4D65-8D61-6D95A5DEF480 - d445a654b4060b4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.ilkTest.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "6B3FF98F-495D-4D65-8D61-6D95A5DEF480 - 305b45e7ed2bdf5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.ilkTest.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "6B3FF98F-495D-4D65-8D61-6D95A5DEF480 - daa9ff7bc4b1a4d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.ilkTest.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "6B3FF98F-495D-4D65-8D61-6D95A5DEF480 - 933d189de04a2029"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.ilkTest.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "6B3FF98F-495D-4D65-8D61-6D95A5DEF480 - 610391ccd53dd0af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DortIslemUygulamas&#x131;.ViewController"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "6B3FF98F-495D-4D65-8D61-6D95A5DEF480 - 67abdbdabb5b1a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DortIslemUygulamas&#x131;.ViewController&gt;"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D290B6B-231A-4671-9001-213212ABF8CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DortIslemUygulamas&#x131;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1D290B6B-231A-4671-9001-213212ABF8CA - eb50ececf0fb3c0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DortIslemUygulamas&#x131;.ViewController"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1D290B6B-231A-4671-9001-213212ABF8CA - 610391ccd53dd0af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DortIslemUygulamas&#x131;.ViewController"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "1D290B6B-231A-4671-9001-213212ABF8CA - d77ad7e0939d9dfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DortIslemUygulamas&#x131;.ViewController&gt;"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1D290B6B-231A-4671-9001-213212ABF8CA - 67abdbdabb5b1a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DortIslemUygulamas&#x131;.ViewController&gt;"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "1D290B6B-231A-4671-9001-213212ABF8CA - 4364bf7c5f4e555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DortIslemUygulamas&#x131;.ViewController.__deallocating_deinit"
+                  moduleName = "DortIslemUygulamas&#x131;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elif/Desktop/deneme/DortIslemUygulamas%C4%B1/DortIslemUygulamas%C4%B1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "131EA966-8F68-4789-A3AD-B2CC99544D42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DortIslemUygulamas&#x131;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF0477AA-0D7A-4E31-823E-F17F9E5FF9C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DortIslemUygulamas&#x131;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
